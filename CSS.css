@@ -1,0 +1,71 @@
+#DV1{
+	
+width: 70%;
+margin:0 15% 30px 15%;
+padding: 2px;
+background-color: gray;
+height: 40%;	
+background-image: url(teste1.png);
+border-radius:20px;
+	
+}
+#DV2{
+	
+width: 70%;
+margin:0 15% 30px 15%;
+padding: 2px;
+background-color: white;
+background-image: url(ex4.jpg);
+
+height: 40%;	
+	
+border-radius:20px;
+	
+}
+
+h1{color:white; font-size:45px; font-family:tahoma;
+margin:0 15% 0 15%;
+
+}
+
+h2{color:white; font-size:45px; font-family:tahoma;
+margin:0 15% 10% 15%;
+
+}
+
+
+
+.bt {
+border:1px solid #25692A;
+border-radius:4px;
+display:inline-block;
+cursor:pointer;
+font-family:Verdana;
+font-weight:bold;
+font-size:13px;
+padding:6px 10px;
+text-decoration:none;
+margin:10px 0 10px 10px;
+width:200px;
+
+} 
+
+
+.bt-az {
+border-color:#46a7f5;
+background:linear-gradient(to bottom, #86c6f8 5%, #46a7f5 100%);
+box-shadow:inset 0px 1px 0px 0px #d7ecfd;
+color:#fff;
+text-shadow:0px 1px 0px #528009;  
+}
+
+
+.bt-az:hover {
+background:linear-gradient(to bottom, #46a7f5 5%, #86c6f8 100%);
+}
+
+
+ 
+
+
+
